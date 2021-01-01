@@ -32,6 +32,12 @@ IT常用工具
 
 [MobaXterm](https://mobaxterm.mobatek.net/)
 
+[winscp](https://winscp.net/)
+
+[xftp](https://www.netsarang.com/zh/xftp/)
+
+[filezilla](https://www.filezilla.cn/)
+
 ##数据库连接
 
 [Navicat Premium](https://www.navicat.com.cn/)
