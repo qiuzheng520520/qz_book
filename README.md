@@ -30,13 +30,19 @@
 
 ------
 
+[鸟哥的linux私房菜](http://linux.vbird.org/linux_basic/)
 
+[Linux认证培训体系IBM](https://developer.ibm.com/zh/tutorials/l-lpic1-map/)
 
 ### 数据库
 
 ------
 
+## 综合
 
+------
+
+[程序员基础知识](https://leohxj.gitbooks.io/a-programmer-prepares/content/programmer-basic/naming.html)
 
 ### 软件工程
 
@@ -72,6 +78,6 @@ jekins
 
 [docker官网文档](https://docs.docker.com/get-started/overview/)
 
-[kubernetes官网文档](https://kubernetes.io/docs/tutorials/kubernetes-basics/#)
+[kubernetes官网文档](https://kubernetes.io/zh/docs/concepts/services-networking/service/)
 
 [openshift官网文档](https://www.openshift.com/learn/what-is-openshift)
