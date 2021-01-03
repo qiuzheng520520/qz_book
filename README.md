@@ -7,10 +7,12 @@
 
 [安全](./安全/readme.md)
 
-[综合](./综合/readme.md)
+[网络](./网络/readme.md)
+
+[云计算](./云计算/readme.md)
 
 [软件工程](./软件工程/readme.md)
 
-[云计算](./云计算/readme.md)
+[综合](./综合/readme.md)
 
 [工具](./工具/readme.md)

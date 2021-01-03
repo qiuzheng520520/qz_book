@@ -18,6 +18,8 @@ IT常用工具
 
 [eclipse](https://www.eclipse.org/downloads/)
 
+[Source Insight](https://www.sourceinsight.com/)
+
 ##JAVA编译工具
 
 [Maven](https://maven.apache.org/)
@@ -53,6 +55,8 @@ IT常用工具
 
 [TortoiseGit](https://tortoisegit.org)
 
+[Beyond Compare](https://www.beyondcompare.cc/)
+
 ##文件搜索工具
 
 [everything](https://www.voidtools.com/zh-cn/)
@@ -76,4 +80,6 @@ IT常用工具
 ##网络抓包工具
 
 [wireshark](https://www.wireshark.org/download.html)
+
+[fiddler](https://www.telerik.com/fiddler)
 
