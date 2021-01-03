@@ -7,3 +7,6 @@
 
 [SAAS](./SAAS/readme.md)
 
+[公有云](./公有云/readme.md)
+
+[私有云](./私有云/readme.md)
